@@ -4,6 +4,8 @@
 * 팀프로젝트(3인)
 * 역할 : 데이터 전처리, 회귀 분석, 상관 분석, 편 상관 분석
 * SPSS 18.0, R(corrplot,ppcor)
+
+
 [🔗공부한 자료 정리](https://www.notion.so/fedbda297403421b80b9d21345e2d05f?pvs=4)
   
 ![1](https://github.com/young123e/SocialPRData_2023_1_2/assets/93528188/fc8e4d60-ee46-4d63-81e9-ebab8eba142a)
