@@ -6,7 +6,7 @@
 * SPSS 18.0, R(corrplot,ppcor)
 
 
-[🔗공부한 자료 정리](https://www.notion.so/fedbda297403421b80b9d21345e2d05f?pvs=4)
+[🔗공부한 자료 정리](https://perpetual-bowl-092.notion.site/fedbda297403421b80b9d21345e2d05f?pvs=4)
   
 ![1](https://github.com/young123e/SocialPRData_2023_1_2/assets/93528188/fc8e4d60-ee46-4d63-81e9-ebab8eba142a)
 ![2](https://github.com/young123e/SocialPRData_2023_1_2/assets/93528188/8f5191cd-8b92-447a-939e-1babc8f5227e)
